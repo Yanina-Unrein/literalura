@@ -160,19 +160,3 @@ literalura/
 - **Maven**: Gestión de dependencias y ciclo de vida del proyecto
 
 ---
-
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas!
-
-1. Haz un fork del proyecto
-2. Crea una rama (`git checkout -b feature/nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`)
-4. Haz push (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request 🚀
-
----
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
